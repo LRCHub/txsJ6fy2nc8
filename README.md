@@ -1,0 +1,50 @@
+# Gigi – Yang Tlah Berlalu (Nirwana)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:18.28] Hm getaran dirimu hangat terasa
+[00:28.89] Kau bawa secercah sinar abadi
+[00:37.72] Dan kuterbuai dalam langkahmu oh
+[00:42.45] Dan janjimu
+[00:47.81] Kan tetapi kini kau semakin menjauh
+[00:55.60] Kau selalu terbayang (oh nirwana)
+[00:59.85] Di dalam cintaku (yang telah berlalu)
+[01:04.12] Kau selalu berharap (berharap)
+[01:08.17] Di dalam cintaku (kembali)
+[01:22.59] Dan kuterhanyut dalam mimpiku
+[01:26.46] Oh naungkan rindu
+[01:32.53] Kuterlingkuh dalam pelukan dirimu
+[01:40.70] Kau selalu terbayang (oh nirwana)
+[01:44.59] Di dalam cintaku (yang telah berlalu)
+[01:49.01] Kau selalu berharap (berharap)
+[01:52.74] Di dalam cintaku (kembali)
+[01:57.57] Kau selalu terbayang (oh nirwana)
+[02:01.86] Di dalam cintaku (yang telah berlalu)
+[02:06.01] Kau selalu berharap (berharap)
+[02:10.02] Di dalam cintaku (kembali)
+[02:27.01] Oh langkahku
+[02:30.14] Tunjukkan tuk satukan rindu
+[02:36.19] Yang silam yang hilang
+[02:40.20] Asmaraku sirna
+[02:44.58] Kau selalu terbayang (oh nirwana)
+[02:48.67] Di dalam cintaku (yang telah berlalu)
+[02:52.89] Kau selalu berharap (berharap)
+[02:56.79] Di dalam cintaku (kembali)
+[03:01.73] Kau selalu terbayang (oh nirwana)
+[03:05.86] Di dalam cintaku (yang telah berlalu)
+[03:10.13] Kau selalu berharap (berharap)
+[03:14.07] Di dalam cintaku (kembali)
+[03:18.64] Kau selalu terbayang (oh nirwana)
+[03:22.83] Di dalam cintaku (oh nirwana yang telah berlalu)
+[03:26.88] Kau selalu terbayang (oh nirwana oh nirwana)
+[03:31.25] Di dalam cintaku (oh nirwana kuberharap kembali)
+[03:35.85] Kau selalu terbayang (oh nirwana oh nirwana)
+[03:39.89] Di dalam cintaku (oh nirwana yang telah berlalu)
+[03:44.11] Kau selalu terbayang (oh nirwana oh nirwana)
+[03:48.34] Di dalam cintaku (oh nirwana kuberharap kembali)
+[03:52.94] Kau selalu terbayang (oh nirwana)
+[03:56.75] Di dalam cintaku (uh)
+[04:01.30] Kau selalu terbayang (oh nirwana)
+[04:05.58] Di dalam cintaku
+```
