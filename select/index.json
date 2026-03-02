@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Yang Tlah Berlalu (Nirwana)",
+  "base_artist": "Gigi",
+  "createdAt": "2026-03-02T07:17:15.134984Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yang T'lah Berlalu (Nirwana)",
+      "artist": "Gigi",
+      "has_synced": true,
+      "path": "select/01_Yang_T'lah_Berlalu_(Nirwana)_Gigi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yang T'lah Berlalu (Nirwana) (Album Version)",
+      "artist": "Gigi",
+      "has_synced": true,
+      "path": "select/02_Yang_T'lah_Berlalu_(Nirwana)_(Album_Version)_Gigi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yang Tlah Berlalu (Nirwana)",
+      "artist": "Gigi",
+      "has_synced": false,
+      "path": "select/pl_01_Yang_Tlah_Berlalu_(Nirwana)_Gigi.txt"
+    }
+  ]
+}
